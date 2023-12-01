@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{692a533e-2f5a-4b67-810a-6124a1f1d53f}">
+		<property name="assetPath">
+			<value>LightLong2-converted.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.4902494331065759</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b1eb4b5c-3e0f-4eb0-810e-a34394b9675b}</destination>
+		</relationship>
+	</object>
+</objects>

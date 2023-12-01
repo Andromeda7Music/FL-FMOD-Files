@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{47f1d4a2-5ebc-4d99-a9c1-ba683fcf02fa}">
+		<property name="name">
+			<value>Boss</value>
+		</property>
+		<relationship name="folder">
+			<destination>{5923361e-cc96-482f-a629-38933c5ba9b2}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{95bee296-6f53-47d0-8c17-ace35effa5dd}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{95bee296-6f53-47d0-8c17-ace35effa5dd}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

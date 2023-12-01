@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{ca9a7c83-1ca2-48a2-8aca-075bac18e1d4}">
+		<property name="name">
+			<value>Enemys in sight</value>
+		</property>
+		<relationship name="folder">
+			<destination>{5923361e-cc96-482f-a629-38933c5ba9b2}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{9e11c019-cb50-4f50-9a2e-8ca816e8504d}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{9e11c019-cb50-4f50-9a2e-8ca816e8504d}">
+		<property name="minimum">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>1</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{1d407f62-21ce-4cd5-94cd-ae0021f2610f}">
+		<property name="assetPath">
+			<value>Boss_Music_Light_Drone.ogg</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>244.68462585034013</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b1eb4b5c-3e0f-4eb0-810e-a34394b9675b}</destination>
+		</relationship>
+	</object>
+</objects>

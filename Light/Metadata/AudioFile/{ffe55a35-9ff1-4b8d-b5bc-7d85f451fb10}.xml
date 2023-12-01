@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{ffe55a35-9ff1-4b8d-b5bc-7d85f451fb10}">
+		<property name="assetPath">
+			<value>rain-street-03-converted.ogg</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>222.8462358276644</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b1eb4b5c-3e0f-4eb0-810e-a34394b9675b}</destination>
+		</relationship>
+	</object>
+</objects>

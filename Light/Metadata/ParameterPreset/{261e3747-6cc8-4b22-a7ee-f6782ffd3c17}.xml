@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{261e3747-6cc8-4b22-a7ee-f6782ffd3c17}">
+		<property name="name">
+			<value>Light Tower State</value>
+		</property>
+		<relationship name="folder">
+			<destination>{5923361e-cc96-482f-a629-38933c5ba9b2}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{57bffb44-a4ee-4a5a-8c4e-cd21b9d2abae}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{57bffb44-a4ee-4a5a-8c4e-cd21b9d2abae}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

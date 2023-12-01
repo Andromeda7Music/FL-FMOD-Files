@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EffectPreset" id="{510606b5-d535-4881-8043-1c192e0b8f95}">
+		<property name="name">
+			<value>Effect Chain</value>
+		</property>
+		<relationship name="folder">
+			<destination>{f3f4ea82-30e1-4401-a7a8-aca079c7fdc7}</destination>
+		</relationship>
+		<relationship name="effect">
+			<destination>{0e6054a8-186b-4d5f-bb80-36ffd3c172db}</destination>
+		</relationship>
+	</object>
+	<object class="EffectChain" id="{0e6054a8-186b-4d5f-bb80-36ffd3c172db}">
+		<relationship name="effects">
+			<destination>{6f15bdd1-0fe4-4a00-9f90-52ae634c5f1f}</destination>
+		</relationship>
+	</object>
+	<object class="CompressorEffect" id="{6f15bdd1-0fe4-4a00-9f90-52ae634c5f1f}">
+		<property name="threshold">
+			<value>-36</value>
+		</property>
+		<property name="ratio">
+			<value>9.19999981</value>
+		</property>
+		<property name="attackTime">
+			<value>3.4000001</value>
+		</property>
+		<property name="releaseTime">
+			<value>600</value>
+		</property>
+		<property name="gain">
+			<value>3</value>
+		</property>
+		<relationship name="sidechains">
+			<destination>{b129ac62-b1aa-472a-8326-8acacccddd62}</destination>
+		</relationship>
+	</object>
+</objects>

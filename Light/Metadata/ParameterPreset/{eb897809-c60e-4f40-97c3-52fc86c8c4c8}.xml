@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{eb897809-c60e-4f40-97c3-52fc86c8c4c8}">
+		<property name="name">
+			<value>Tower 3 Reached</value>
+		</property>
+		<relationship name="folder">
+			<destination>{5923361e-cc96-482f-a629-38933c5ba9b2}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{0b3dccd1-4cd2-4b69-aeea-14018064e92d}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{0b3dccd1-4cd2-4b69-aeea-14018064e92d}">
+		<property name="minimum">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>1</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

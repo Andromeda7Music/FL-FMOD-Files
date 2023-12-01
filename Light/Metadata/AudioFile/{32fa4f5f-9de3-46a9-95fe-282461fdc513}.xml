@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{32fa4f5f-9de3-46a9-95fe-282461fdc513}">
+		<property name="assetPath">
+			<value>TheLightItBurns-converted.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.8894331065759635</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b1eb4b5c-3e0f-4eb0-810e-a34394b9675b}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{0751ac85-2bfe-4836-ae0c-82744f8d9b7a}">
+		<property name="name">
+			<value>Enemys gone</value>
+		</property>
+		<relationship name="folder">
+			<destination>{5923361e-cc96-482f-a629-38933c5ba9b2}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{48d175b9-b65c-4a93-8921-e6eca073e72f}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{48d175b9-b65c-4a93-8921-e6eca073e72f}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
